@@ -1,5 +1,5 @@
 # Silberpreisticker – Live-Silberpreis in €/kg für Windows
-
+![Silberbarren und Silbermünzen](silberbarren.png)
 Ein kleiner Windows-Ticker, der den aktuellen Silberpreis in Euro pro Kilogramm anzeigt.
 
 ## Funktionen
