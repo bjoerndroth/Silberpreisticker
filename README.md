@@ -4,6 +4,7 @@ Ein kleiner Windows-Ticker, der den aktuellen Silberpreis in Euro pro Kilogramm 
 
 
 ![Ticker](ticker.png)
+
 So sieht der Silberpreisticker aus
 
 ## Funktionen
