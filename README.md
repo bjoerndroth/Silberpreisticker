@@ -2,8 +2,10 @@
 ![Silberbarren und Silbermünzen](silberbarren.png)
 Ein kleiner Windows-Ticker, der den aktuellen Silberpreis in Euro pro Kilogramm anzeigt.
 
-So sieht der Silberpreisticker aus
+
 ![Ticker](ticker.png)
+
+So sieht der Silberpreisticker aus
 
 ## Funktionen
 
