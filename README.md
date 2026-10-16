@@ -3,6 +3,7 @@
 Ein kleiner Windows-Ticker, der den aktuellen Silberpreis in Euro pro Kilogramm anzeigt.
 
 ## Funktionen
+![Ticker](ticker.png)
 
 - Automatische Kursaktualisierung
 - Anzeige des zuletzt gespeicherten Kurses bei vorübergehenden Verbindungsproblemen
